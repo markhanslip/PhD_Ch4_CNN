@@ -4,5 +4,5 @@
 
 ### The resulting piece can heard/seen here: https://youtu.be/Nin8GIIZW-4?si=k2_Aq2CS34_O3i6L&t=857
 
-### The code ended being very specific to what I was trying to do at the time, but there's plenty that should be useful to others and it's reasonably well-organised :) 
+### The code ended being very specific to what I was trying to do at the time, but there's plenty that should be useful to others, particularly in ```CNN.py``` and ```SaxDataProc.py```.
 
